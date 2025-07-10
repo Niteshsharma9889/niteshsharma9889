@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **JavaScript, Flask, MERN Stack, or anything Web Dev**
 
-- 📫 How to reach me: **[your_email@example.com]**
+- 📫 How to reach me: **[niteshsharma9670@gmail.com]**
 
-- ⚡ Fun fact: **[Add something cool or quirky here]**
+- ⚡ Fun fact: **[I am jack's smirking revenge]**
 
 ---
 
