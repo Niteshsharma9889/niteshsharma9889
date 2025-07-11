@@ -35,7 +35,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/[your_linkedin]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="[your_linkedin]" height="30" width="40" /></a>
-<a href="https://www.instagram.com/[your_instagram]/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="[your_instagram]" height="30" width="40" /></a>
+<a href="https://www.instagram.com/[your_instagram]/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="[niteshsharma__1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/[your_leetcode]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="[your_leetcode]" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/[your_gfg]/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" alt="[your_gfg]" height="30" width="40" /></a>
 </p>
@@ -54,7 +54,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+<!--   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> -->
 </p>
 
 ---
