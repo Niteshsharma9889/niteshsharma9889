@@ -34,10 +34,10 @@
 </p>
 
 <p align="left">
-<a href="https://linkedin.com/in/[your_linkedin]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="[your_linkedin]" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nitesh-sharma-185273255/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="[your_linkedin]" height="30" width="40" /></a>
 <a href="https://www.instagram.com/niteshsharma__1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="[niteshsharma__1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/[your_leetcode]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="[your_leetcode]" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/[your_gfg]/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" alt="[your_gfg]" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/[your_leetcode]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="[your_leetcode]" height="30" width="40" /></a> -->
+<!-- <a href="https://auth.geeksforgeeks.org/user/[your_gfg]/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" alt="[your_gfg]" height="30" width="40" /></a> -->
 </p>
 
 ---
