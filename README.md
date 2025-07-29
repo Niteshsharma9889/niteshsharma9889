@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Niteshsharma9889)
 - 💬 Ask me about **HTML, CSS, JS, React, C++, Python, Flask**
 - 📫 How to reach me: **niteshsharma9670@gmail.com**
-- 📄 Know more about my experiences: **https://drive.google.com/file/d/17uriJxc6pxKRagImPLC4o3fTFDdxqAtO/view?usp=sharing**
+- 📄 Know more about my experiences: **N/A**
 - ⚡ Fun fact: **I love exploring new frameworks, building creative web apps, and I'm always up for a coding challenge!**
 
 <p align="left"> 
